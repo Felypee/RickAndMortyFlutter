@@ -1,17 +1,9 @@
-# rick_and_morty
+# Welcome to my rick and morty project
 
-A new Flutter project.
+First after cloning it:
+*flutter pub get*
 
-## Getting Started
+For generated files please introduce this command in the project terminal root folder:
+*flutter pub get; flutter pub run build_runner build*
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# RickAndMortyFlutter
+And you can now run the aplication
