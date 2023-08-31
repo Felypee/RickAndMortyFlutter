@@ -1,4 +1,7 @@
-# Welcome to my rick and morty project
+# Welcome to my Rick and Morty project using Flutter
+
+![Uploading image.png…]()
+
 
 First after cloning it:
 *flutter pub get*
